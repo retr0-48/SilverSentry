@@ -65,5 +65,4 @@ def main():
         print("No level change since last check")
 
 if __name__ == "__main__":
-    send_telegram_message("✅ Test — secrets are working!")
     main()

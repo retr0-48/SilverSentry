@@ -7,7 +7,7 @@ TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 LOW = 185000
 HIGH = 250000
-STEP = 2500
+STEP = 2000
 STATE_FILE = "state.txt"
 
 def get_silver_price():
